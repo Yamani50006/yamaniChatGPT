@@ -111,7 +111,7 @@ try {
           onChange={(e) => setInput(e.target.value)}
         />
         {/* Responsive container for controls */}
-        <div className="flex flex-col md:flex-row items-center justify-between mt-4 gap-4 md:gap-0">
+        <div className="w-full flex  md:flex-row items-center justify-between mt-4 gap-4 md:gap-0">
           {/* Left side controls */}
           <div className="flex flex-wrap items-center gap-3">
             {/* Add Button and Popup */}

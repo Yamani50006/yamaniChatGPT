@@ -12,7 +12,7 @@ export default function Headre() {
              <Image src={img} alt="Logo" width={50} height={50} className="rounded-full" />
         </div>
        
-       <h1 className='text-6xl font-bold text-amber-50   '>YAMANI CHAT</h1>
+       <h1 className='text-3xl  lg:text-6xl font-bold text-amber-50   '>YAMANI CHAT</h1>
        
         <nav className='space-x-4'>  <a href="#" className='px-3 py-1 rounded-lg backdrop-blur-lg bg-white/80 dark:bg-black/90 text-black dark:text-white hover:bg-white/100'>projects</a></nav>
            
